@@ -6,10 +6,10 @@ Computer Scientist
 
 I'm a second-year Master's student at Harbin Institute of Technology (Shenzhen), specializing in Computer Science and Technology. I've been learning about deep learning and am on my way to becoming an expert.
 
-* 🌍  I'm based in Shenzhen
+* 🌍  I'm based in Shenzhen.
 * ✉️  You can contact me at [tapiwamarley@gmail.com](mailto:tapiwamarley@gmail.com)
 * 🧠  I'm learning generative models.
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects.
 * ⚡  I love setting goals and working hard to achieve them.
 
 ### Skills
