@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Scientist
 ------------------
 
-I'm a second-year Master's student at Harbin Institute of Technology (Shenzhen), specializing in Computer Science and Technology. I'm currently learning about deep learning and my research direction is towards generative models.
+I'm a second-year Master's student at Harbin Institute of Technology (Shenzhen), specializing in Computer Science and Technology. I'm currently learning about deep learning and my research direction is focused on generative models.
 * 🌍  I'm based in Shenzhen.
 * ✉️  You can contact me at [tapiwamarley@gmail.com](mailto:tapiwamarley@gmail.com)
-* 🧠  I'm learning generative models.
+* 🧠  I'm learning about machine learning, specifically generative models.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I love setting goals and working hard to achieve them.
 
